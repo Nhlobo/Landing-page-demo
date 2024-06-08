@@ -82,6 +82,23 @@ Developed as a Portfolio Project for Holberton School, TechConnect aims to accel
 
 ### Next Steps
 
-- Add more features to the reward system.
-- Improve the real-time update functionality.
-- Enhance the job search algorithm for
+- **Add More Features to the Reward System**: Expand the reward system to include different types of rewards and user achievements.
+- **Improve Real-time Update Functionality**: Enhance the WebSocket implementation for better performance and reliability.
+- **Enhance Job Search Algorithm**: Integrate machine learning to provide more accurate job recommendations based on user preferences and history.
+
+### Screenshots and Visuals
+
+![Feature 1](https://i.imgur.com/1nbixUJ.png)
+*Real-time Updates: Get instant notifications and updates with our real-time WebSocket integration.*
+
+![Feature 2](https://i.imgur.com/u2hCcht.jpeg)
+*User Rewards: Earn rewards based on your activity and redeem them for exciting perks.*
+
+![Feature 3](https://i.imgur.com/J06fE21.jpeg)
+*Job Search: Effortlessly find job opportunities tailored to your preferences with our advanced search functionality.*
+
+## Conclusion
+
+TechConnect is more than just a landing page. It’s a showcase of modern web development techniques and best practices, aimed at bridging the gap between people and technology. With its user-friendly design and advanced features, TechConnect provides an engaging experience for users while demonstrating the power of efficient backend solutions.
+
+Thank you for exploring TechConnect. I hope this project inspires you to build innovative and user-centric web applications.
