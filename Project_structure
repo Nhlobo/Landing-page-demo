@@ -1,0 +1,11 @@
+landing-page/
+├── index.html
+├── styles.css
+├── README.md
+└── assets/
+    ├── images/
+    │   ├── cover-image.jpg
+    │   ├── feature1-image.png
+    │   ├── feature2-image.jpeg
+    │   └── feature3-image.jpeg
+    └── other-assets/
