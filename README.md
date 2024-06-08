@@ -8,7 +8,7 @@ TechConnect is a project developed to create a user-friendly landing page that s
 [LinkedIn Profile](https://www.linkedin.com/)  
 [GitHub Profile](https://github.com/Nhlobo)
 
-![TechConnect Screenshot](https://imgur.com/3QjBifS)
+![TechConnect Screenshot](https://i.imgur.com/1nbixUJ.png)
 
 ## Installation
 
