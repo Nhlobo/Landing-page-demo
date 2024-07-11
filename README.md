@@ -3,7 +3,7 @@
 ## Introduction
 TechConnect is a project developed to create a user-friendly landing page that showcases the latest in technology. As the sole developer, I undertook this project to improve my skills in web development and create a functional, visually appealing website.
 
-[Deployed Project](https://nhlobo.github.io/Landing-page/)  
+[Deployed Project](https://nhlobo.github.io/Landing-page-demo/)  
 [Final Project Blog Article](https://www.linkedin.com/posts/nhlovo-mathebula_how-i-built-techconnect-bridging-the-gap-activity-7204994446474592256-PtX7?utm_source=share&utm_medium=member_android)  
 [LinkedIn Profile](https://www.linkedin.com/)  
 [GitHub Profile](https://github.com/Nhlobo)
